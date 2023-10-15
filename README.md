@@ -6,6 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/mohammed-hajji-baba-098a18171/
 <p align="left">
 </p>
 
