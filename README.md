@@ -30,7 +30,8 @@
 
 Check out my GitHub repositories to explore my projects.
 
-👨‍💻 Simo-42 | Full Stack Developer & 🎮 E-sport Enthusiast
+<h2>👨‍💻 Simo-42 | Full Stack Developer & 🎮 E-sport Enthusiast</h2>
+
 Hello there! 👋 I'm Simo, a passionate full-stack developer with a strong foundation in modern web technologies and a background in competitive programming. 🏆 Graduating from the renowned 42 school, I specialize in building dynamic and efficient applications with a seamless user experience. 💻 My tech stack includes Nuxt 3, Vue.js, Node.js, and Docker, allowing me to create robust and scalable applications tailored to client needs.
 
 ✨ In addition to coding, I'm an avid e-sports fan 🎮, always curious about innovations in the gaming industry. I love taking on challenging projects that push the boundaries of web development 🚀 and am constantly exploring new tools and frameworks to stay on top of the latest trends. 🔍
