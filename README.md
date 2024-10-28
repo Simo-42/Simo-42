@@ -36,7 +36,5 @@ Hello there! 👋 I'm Simo, a passionate full-stack developer with a strong foun
 
 🎯 Feel free to check out my projects below and reach out if you'd like to collaborate on something exciting! 😊
 
-### 📊 Stats
-![Simo-42's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Simo-42&theme=onedark&hide_border=false)
 
 ![Simo-42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simo-42&theme=onedark&show_icons=true&hide_border=false&layout=compact)
