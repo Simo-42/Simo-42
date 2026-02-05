@@ -28,12 +28,24 @@
 
 Check out my GitHub repositories to explore my projects.
 
-<h2>👨‍💻 Simo-42 | Full Stack Developer & 🎮 E-sport Enthusiast</h2>
+<h2>☁️ Simo-42 | Cloud & DevOps Engineer | AWS Certified x3
+Hi there! 👋 I'm Mohammed, a Cloud & DevOps Engineer passionate about automation, modern infrastructure, and scalability. Currently completing my curriculum at 42 Paris, I combine strong architectural skills with hands-on experience in building reliable cloud solutions.
 
-Hello there! 👋 I'm Simo, a passionate full-stack developer with a strong foundation in modern web technologies and a background in competitive programming. 🏆 Graduating from the renowned 42 school, I specialize in building dynamic and efficient applications with a seamless user experience. 💻 My tech stack includes Nuxt 3, Vue.js, Node.js, and Docker, allowing me to create robust and scalable applications tailored to client needs.
+🚀 My focus: Designing scalable AWS architectures, automating infrastructure with Terraform, and orchestrating containers with Kubernetes.
 
-✨ In addition to coding, I'm an avid e-sports fan 🎮, always curious about innovations in the gaming industry. I love taking on challenging projects that push the boundaries of web development 🚀 and am constantly exploring new tools and frameworks to stay on top of the latest trends. 🔍
+🏆 Certifications
+🏗️ AWS Certified Solutions Architect – Associate (2025)
 
-🎯 Feel free to check out my projects below and reach out if you'd like to collaborate on something exciting! 😊
+⚙️ AWS Certified CloudOps Engineer – Associate (2025)
 
+☁️ AWS Certified Cloud Practitioner (2025)
+
+🛠️ Tech Stack
+Cloud & IaC: AWS (EC2, S3, RDS, VPC), Terraform, Ansible
+
+Containerization & Orchestration: Docker, Kubernetes (K3s, Helm, ArgoCD)
+
+CI/CD & DevOps: GitLab CI, GitHub Actions, Grafana, Linux
+
+Development: TypeScript, C/C++, Nuxt.js, PostgreSQL
 
