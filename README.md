@@ -29,6 +29,8 @@
 Check out my GitHub repositories to explore my projects.
 
 <h2>☁️ Simo-42 | Cloud & DevOps Engineer | AWS Certified x3
+
+
 Hi there! 👋 I'm Mohammed, a Cloud & DevOps Engineer passionate about automation, modern infrastructure, and scalability. Currently completing my curriculum at 42 Paris, I combine strong architectural skills with hands-on experience in building reliable cloud solutions.
 
 🚀 My focus: Designing scalable AWS architectures, automating infrastructure with Terraform, and orchestrating containers with Kubernetes.
